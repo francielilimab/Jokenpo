@@ -1,3 +1,4 @@
+#Francieli Lima
 from random import randint
 from time import sleep
 print(f'{" Jokenpô! ":=^50}')
